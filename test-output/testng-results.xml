@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29" started-at="2018-06-21T17:12:59Z" finished-at="2018-06-21T17:12:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29" started-at="2018-06-21T17:12:59Z" finished-at="2018-06-21T17:12:59Z">
+      <class name="pocwebapp.SelinumTest">
+        <test-method status="PASS" signature="Jenkins()[pri:0, instance:pocwebapp.SelinumTest@68be2bc2]" name="Jenkins" duration-ms="12" started-at="2018-06-21T17:12:59Z" finished-at="2018-06-21T17:12:59Z">
+        </test-method> <!-- Jenkins -->
+      </class> <!-- pocwebapp.SelinumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
